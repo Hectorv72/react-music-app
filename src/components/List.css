@@ -1,10 +1,10 @@
-.flex-list{
-    width: 40%;
-    height: 80%;
-    background-color: red;
+.flex-list {
+  width: 40%;
+  height: 80%;
+  background-color: red;
 }
 
-.list-content{
-    margin-left: 5%;
-    text-align: left;
+.list-content {
+  margin-left: 5%;
+  text-align: left;
 }

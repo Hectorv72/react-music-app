@@ -1,14 +1,14 @@
-import './App.css';
-import { List } from './components/List';
-import { Header } from './components/Header';
+import "./App.css";
+import { List } from "./components/List";
+import { Header } from "./components/Header";
 
 function App() {
   const musics = [
-    {musica:"chayane"},
-    {musica:"the beattles"},
-    {musica:"marama"},
-  ]
-  
+    { musica: "chayane" },
+    { musica: "the beattles" },
+    { musica: "marama" },
+  ];
+
   return (
     <div className="App">
       <Header />
